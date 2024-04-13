@@ -1,0 +1,190 @@
+
+
+
+*
+{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	scroll-behavior: smooth;
+	.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+}
+
+#navbar
+{
+	
+	background: #f9f9f9;
+}
+
+#logo
+{
+	font-size: 36px;
+	font-weight: 550;
+	color: black;
+	text-shadow: 0px 1px 1px black;
+	margin-bottom: 5px;
+}
+
+#logo span
+{
+	color: #0774db;
+}
+
+.navbar-nav
+{
+	margin-left: 20px;
+
+}
+
+.nav-item .nav-link
+{
+	font-size: 16px;
+	font-weight: 550;
+    color: black;
+    letter-spacing: 1px;
+    border-radius: 3px;
+    transition: 0.5s ease;
+}
+
+.nav-item .nav-link:hover
+{
+	background: #50d2fa;
+	color: white;
+}
+
+#navbar form button
+{
+	color: black;
+	border: none;
+
+}
+
+
+
+
+
+#slider
+{
+	text-align: center;
+}
+
+#slider h6
+{
+	color: #0774db;
+	font-weight: bold;
+	
+}
+
+#slider h1
+{
+	font-weight: bold;
+	
+}
+
+#slider #para
+{
+	font-weight: bold;
+}
+
+
+#slider h1, #packages h1{
+	text-align: center;
+}
+
+#slider span, #packages span{
+	color: #4398e8;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#slider hr, #packages hr
+{
+	color: #4398e8;
+	border:1px solid #4398e8;
+
+
+}
+
+
+#packages #row
+{
+	margin-top: 30px;
+}
+
+.packages .card
+{
+	border-radius: 5px;
+	border: none;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.packages .card img
+{
+	border-radius: 5px;
+}
+
+.packages .card .card-body
+{
+	background: transparent;
+}
+
+.packages .card .card-body h3
+{
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.packages .card .card-body px
+{
+    font-size: 15px;
+}
+.checked
+{
+	color: #ffa500;
+}
+
+
+
+.packages .card .card-body h6
+{
+	font-size: 20px;
+}
+
+.packages .card .card-body a
+{
+	padding: 10px;
+	text-decoration: none;
+	background: #ffa500;
+	color: white;
+	border-radius: 5px;
+}
+
+
+
+figure {
+	transition: transform 0.5s;
+}
+
+figure:hover {
+	transform:scale(1.2);
+
+}
+
+figcaption {
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: Courier new;
+	text-transform: uppercase;
+	color: darkblue;
+}
+
+
+
+
+
